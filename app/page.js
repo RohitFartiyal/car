@@ -1,9 +1,6 @@
-// "use client"
-// import { Swiper, SwiperSlide } from "swiper/react";
-// import { Navigation, Pagination, Autoplay } from "swiper/modules";
-// import "swiper/css";
-// import "swiper/css/navigation";
-// import "swiper/css/pagination";
+export const dynamic = 'force-dynamic';
+
+
 import HomeSearch from "@/components/home-search";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
